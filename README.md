@@ -33,5 +33,4 @@
 
 ## 四、仓库预览
 
-我们已将本次开发的魔法补光灯网页版应用上传至 [链接地址](#)，欢迎各位开发者前往查看，希望我们的成果能为大家提供有益的参考与启发。
-这种格式可以直接在支持Markdown的平台上使用，同时保留了文章的结构和内容，方便展示和分享。
+我们已将本次开发的魔法补光灯网页版应用上传至 [GitHub - xiaoweiruby/Trea-Magic-Fill-Light](https://github.com/xiaoweiruby/Trea-Magic-Fill-Light/tree/master)，欢迎各位开发者前往查看，希望我们的成果能为大家提供有益的参考与启发。
